@@ -1,0 +1,64 @@
+# depslib dependency file v1.0
+1524434969 source:c:\users\khaled\documents\c++ projects\adaptive huffman\main.cpp
+	<bits/stdc++.h>
+	<node.h>
+	<tree.h>
+
+1524426492 source:c:\users\khaled\documents\c++ projects\adaptive huffman\src\node.cpp
+	<bits/stdc++.h>
+	<node.h>
+	<tree.h>
+
+1524426492 c:\users\khaled\documents\c++ projects\adaptive huffman\include\node.h
+	<bits/stdc++.h>
+
+1524435269 c:\users\khaled\documents\c++ projects\adaptive huffman\include\tree.h
+	<bits/stdc++.h>
+
+1524436221 source:c:\users\khaled\documents\c++ projects\adaptive huffman\src\tree.cpp
+	<bits/stdc++.h>
+	<node.h>
+	<tree.h>
+
+1524426492 source:e:\khaled\studying\3rd year\2nd term\data compression\project\adaptive huffman\src\node.cpp
+	<bits/stdc++.h>
+	<node.h>
+	<tree.h>
+
+1524426492 e:\khaled\studying\3rd year\2nd term\data compression\project\adaptive huffman\include\node.h
+	<bits/stdc++.h>
+
+1524435269 e:\khaled\studying\3rd year\2nd term\data compression\project\adaptive huffman\include\tree.h
+	<bits/stdc++.h>
+
+1524436221 source:e:\khaled\studying\3rd year\2nd term\data compression\project\adaptive huffman\src\tree.cpp
+	<bits/stdc++.h>
+	<node.h>
+	<tree.h>
+
+1524609908 source:e:\khaled\studying\3rd year\2nd term\data compression\project\adaptive huffman\main.cpp
+	<bits/stdc++.h>
+	<node.h>
+	<tree.h>
+
+1524426492 source:c:\users\khaled\desktop\adaptive huffman\src\node.cpp
+	<bits/stdc++.h>
+	<node.h>
+	<tree.h>
+
+1524426492 c:\users\khaled\desktop\adaptive huffman\include\node.h
+	<bits/stdc++.h>
+
+1524435269 c:\users\khaled\desktop\adaptive huffman\include\tree.h
+	<bits/stdc++.h>
+
+1524436221 source:c:\users\khaled\desktop\adaptive huffman\src\tree.cpp
+	<bits/stdc++.h>
+	<node.h>
+	<tree.h>
+
+1524657225 source:c:\users\khaled\desktop\adaptive huffman\main.cpp
+	<bits/stdc++.h>
+	<node.h>
+	<tree.h>
+
